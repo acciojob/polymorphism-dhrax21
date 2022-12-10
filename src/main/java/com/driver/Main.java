@@ -3,7 +3,7 @@ package com.driver;
 public class Main {
 
 
-    static class Product{
+        public class Product{
         public Product() {
 
         }
